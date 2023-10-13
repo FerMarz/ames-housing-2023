@@ -1,2 +1,2 @@
 # ames-housing-2023
-This repository focuses on the analysis and development of Machine Learning models using XGBoost to predict housing prices in Ames, Iowa. Predicting real estate prices is crucial in the housing market, and this research's primary goal is to explore and refine machine learning models to enhance the accuracy of these predictions.
+Este repositorio se centra en el análisis y desarrollo de modelos de Machine Learning utilizando XGBoost para predecir los precios de la vivienda en Ames, Iowa. Predecir los precios de bienes raíces es crucial en el mercado de la vivienda, y el objetivo principal de esta investigación es explorar y refinar modelos de aprendizaje automático para mejorar la precisión de estas predicciones.
